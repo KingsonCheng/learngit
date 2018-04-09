@@ -1,2 +1,2 @@
 hello my git
-hello GitHub
+hello GitHub!
